@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="support-v4-26.0.0-alpha1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f5e4fcb077fde84bf155fafa7a915d20fccf8e9f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f5e4fcb077fde84bf155fafa7a915d20fccf8e9f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/software/work/newassdk/extras/android/m2repository/com/android/support/support-v4/26.0.0-alpha1/support-v4-26.0.0-alpha1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
